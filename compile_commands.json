@@ -1,0 +1,38 @@
+[
+    {
+        "arguments": [
+            "/usr/bin/c++",
+            "-c",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/inc",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/inc/x264encoder",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/thirdparty/x264/include",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/thirdparty/libv4l2cc/include",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/src",
+            "-g",
+            "-std=gnu++14",
+            "-o",
+            "CMakeFiles/v4l2YuvToH264.dir/src/main.cc.o",
+            "../src/main.cc"
+        ],
+        "directory": "/home/ubuntu/share/Vdev/v4l2YuvtoH264/build",
+        "file": "../src/main.cc"
+    },
+    {
+        "arguments": [
+            "/usr/bin/c++",
+            "-c",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/inc",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/inc/x264encoder",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/thirdparty/x264/include",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/thirdparty/libv4l2cc/include",
+            "-I/home/ubuntu/share/Vdev/v4l2YuvtoH264/src",
+            "-g",
+            "-std=gnu++14",
+            "-o",
+            "CMakeFiles/v4l2YuvToH264.dir/src/x264encoder/x264encoder.cc.o",
+            "../src/x264encoder/x264encoder.cc"
+        ],
+        "directory": "/home/ubuntu/share/Vdev/v4l2YuvtoH264/build",
+        "file": "../src/x264encoder/x264encoder.cc"
+    }
+]
